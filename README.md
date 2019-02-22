@@ -1,1 +1,1 @@
-# odoo-test
+# odoo 8
